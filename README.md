@@ -1,7 +1,9 @@
 
-IMPORTANTE: Antes de instalar el proyecto debe tener instalado NodeJS en su computadora
+IMPORTANTE: Antes de instalar el proyecto debe tener instalado NodeJS y GIT en su computadora
 
     https://nodejs.org/es/
+    
+    http://git-scm.com/downloads
 
 ## Instalación del código
 
