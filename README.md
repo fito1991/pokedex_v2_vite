@@ -7,6 +7,9 @@ IMPORTANTE: Antes de instalar el proyecto debe tener instalado NodeJS y GIT en s
 
 ## Instalación del código
 
+NOTA: También puede descargar el archivo ZIP del repositorio y descomprimirlo en su computadora y pasar al paso de instalación de la carpeta
+node_module
+
 Clone el repositorio
 
 Abra el terminal de su computadora 
