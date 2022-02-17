@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.botones{
+  padding-top: 2rem;
+}
+.botones button{
+  margin: .5rem;
+}
+.pokemon-list{
+  height: 65vh;
+  overflow-y: auto;
+}
+.poke-info p:last-child{
+  display: block;
+  margin: 0px;
+  padding-bottom: 20px;
+}
+.missigno{
+  width:640px;
+  max-width: 100%;
+}
+.pokelist-fav{
+  height: 80vh;
+  overflow: auto;
+  margin-top: 4%;
+}
+.img-logo-poke{
+  width: 175px;
+  padding: 4px 4px;
+}
+
+@media screen and (max-width:767px){
+  .img-logo-poke{
+    width: 175px;
+    padding: 1px 4px;
+  }
+}
